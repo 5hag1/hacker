@@ -51,7 +51,7 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
+| head1        | head dos          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
